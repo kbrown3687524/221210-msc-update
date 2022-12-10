@@ -1,0 +1,4 @@
+#!/bin/bash
+python3 mutant_intro.py /home/akuma/Desktop/App/mutations2.txt /home/akuma/Desktop/App/RLT_Model_Repair.pdb /home/akuma/Desktop/amia1.1.1
+#python3 contact_analysis.py /home/rotan/Desktop/amia1.1.1 /home/rotan/Desktop/App/RLT_Model_Repair.pdb 3.6 /home/rotan/Desktop/amia1.2.1
+#python3 foldx.py /home/rotan/Desktop/amia1.1.1 /home/rotan/Desktop/App/RLT_Model_Repair.pdb /home/rotan/Desktop/amia1.3.1 /home/rotan/Desktop/App/FoldX/foldx
